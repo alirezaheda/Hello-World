@@ -1,1 +1,2 @@
-'Well, Hello there'
+Well, Hello there
+Hi!
